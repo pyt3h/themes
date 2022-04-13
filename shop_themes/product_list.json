@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Acer 001",
+    "price": 6500000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ACER_0001.jpg"
+  },
+  {
+    "name": "Acer 002",
+    "price": 7500000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ACER_0002.jpg"
+  },
+  {
+    "name": "Acer 003",
+    "price": 8500000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ACER_0003.jpg"
+  },
+  {
+    "name": "Asus 001",
+    "price": 8000000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ASUS_0001.jpg"
+  },
+  {
+    "name": "Asus 002",
+    "price": 10000000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ASUS_0002.jpg"
+  },
+  {
+    "name": "Asus 003",
+    "price": 12000000,
+    "image": "https://raw.githubusercontent.com/pytutorial/django_shop_spa/main/backend/static/images/ASUS_0003.jpg"
+  }
+]
